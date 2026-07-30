@@ -1,6 +1,18 @@
 # Quantum Field Theory Term Paper: AI Chat Logs & Mathematical Explanations
 
-An official public archive containing the complete conversation logs and **40 detailed mathematical explanation documents** generated in collaboration with AI (Antigravity / Gemini) during the preparation of the **Quantum Field Theory I** term paper.
+An official public archive containing the complete conversation logs, **unabridged draft PDF**, and **40 detailed mathematical explanation documents** generated in collaboration with AI (Antigravity / Gemini) during the preparation of the **Quantum Field Theory I** term paper.
+
+---
+
+## 📄 Unabridged Draft PDF & Browser Notice
+
+* **Unabridged Draft PDF**: [`Kokin_Cho_QFT_term_paper_draft.pdf`](./Kokin_Cho_QFT_term_paper_draft.pdf)  
+  Contains line-by-line intermediate algebraic derivations, detailed Feynman diagram combinatorics, and expanded mathematical proofs omitted from the concise final report.
+
+> [!WARNING]
+> **Safari Browser PDF Preview Notice**  
+> GitHub's embedded PDF viewer may fail to render `Kokin_Cho_QFT_term_paper_draft.pdf` on **Apple Safari** due to browser-specific PDF.js engine limitations (throwing an `Error loading PDF page number 1` message).  
+> **If you encounter a blank or error screen on Safari, please try using another browser (Google Chrome, Firefox, Microsoft Edge, etc.) or click the "Download raw" button to view the PDF locally.**
 
 ---
 
@@ -8,14 +20,15 @@ An official public archive containing the complete conversation logs and **40 de
 
 ```
 qft-report-explanations/
-├── README.md                 # Overview and table of contents
-├── chat_logs/                # Full conversation logs (5 files)
+├── README.md                           # Overview and table of contents
+├── Kokin_Cho_QFT_term_paper_draft.pdf  # Unabridged draft PDF with full derivations
+├── chat_logs/                          # Full conversation logs (5 files)
 │   ├── log1_part_A_1.md
 │   ├── log2_part_A_2.md
 │   ├── log3_part_B_1.md
 │   ├── log4_part_B_2.md
 │   └── log5_part_B_3.md
-└── explanations/             # Detailed mathematical explanation documents (40 files)
+└── explanations/                       # Detailed mathematical explanation documents (40 files)
 ```
 
 ---
